@@ -1,0 +1,16 @@
+// Prog2
+
+int n, b;
+
+b = 30;
+
+n = true ? 8 : 10;
+
+
+do {
+
+n = n + 4;
+
+}while (false);
+
+
